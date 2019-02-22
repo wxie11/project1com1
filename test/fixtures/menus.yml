@@ -1,11 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  image_url: MyString
+veg_pasta:
+  name: vegetarian Pasta
+  image_url: veg_pasta.jpg
   price: 9.99
+  restaurant: noodle_house
 
-two:
-  name: MyString
-  image_url: MyString
-  price: 9.99
+miso_ramen:
+  name: Miso Ramen
+  image_url: miso_ramen.jpg
+  price: 13.50
+  restaurant: ajida
+
+curry_rice:
+  name: Japanese Curry Rice
+  image_url: curry_rice.jpg
+  price: 11.00
+  restaurant: ajida
